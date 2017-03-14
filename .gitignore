@@ -1,0 +1,10 @@
+[Bb]in
+[Dd]ebug*/
+obj/
+[Rr]elease*/
+[Tt]humbs.db
+[Tt]est[Rr]esult*
+[Bb]uild[Ll]og.*
+.DS_Store
+.suo
+packages/
