@@ -1,0 +1,16 @@
+{
+    "version": "0.1.0",
+    "command": "dotnet",
+    "isShellCommand": true,
+    "args": [],
+    "tasks": [
+        {
+            "taskName": "build",
+            "args": [
+                "${workspaceRoot}/DesignPatterns.EventAggregator/DesignPatterns.EventAggregator.csproj"
+            ],
+            "isBuildCommand": true,
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
